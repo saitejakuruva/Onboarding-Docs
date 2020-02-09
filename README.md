@@ -20,6 +20,17 @@ There are many ways to write the smart contracts but we will be sticking to **so
 ## Best practices for writing smart contracts.
 [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
 
+## Tools
+**Truffle**
+A development and testing framework.
+[Truffle](https://www.trufflesuite.com/)
+
+**Web3 js**
+A bundle of modules to interact with the ethereum blockchain.
+[Web3](https://web3js.readthedocs.io/en/v1.2.0/getting-started.html)
+
+
+
 
 
 
