@@ -7,6 +7,18 @@ Go through the following [video](https://www.youtube.com/watch?v=SSo_EIwHSd4) to
 **What is _Ethereum_ ?**
 You must watch this [video](https://www.youtube.com/watch?v=jxLkbJozKbY) to know what is actually **Ethereum**
 
+## Get started
+Code your first smart contract right away: [crypto zombies](https://cryptozombies.io/)
+
+### smart contract languages
+**Solidity**
+[Documentation](https://solidity.readthedocs.io/en/v0.6.2/)
+[Github](https://github.com/ethereum/solidity/)
+
+There are many ways to write the smart contracts but we will be sticking to **solidity** for Nuo.
+
+## Best practices for writing smart contracts.
+[Consensys best practices](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
 
 
 
