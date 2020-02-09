@@ -29,6 +29,17 @@ A development and testing framework.
 A bundle of modules to interact with the ethereum blockchain.
 [Web3](https://web3js.readthedocs.io/en/v1.2.0/getting-started.html)
 
+## Testing tools
+**Sol-coverage**
+[sol-coverage](https://www.npmjs.com/package/solidity-coverage)
+
+## Installation-Guide 
+- vs-code
+- truffle
+- web3 js
+
+
+
 
 
 
